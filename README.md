@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on a DLL injector
 - 🌱 I’m currently learning reverse engineering
 
+###
+
 <div>
   <a href="https://github.com/smokedy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smokedy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -21,5 +23,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/smokedy/smokedy/blob/output/snake.svg" alt="Snake animation"/>
 
 ###
